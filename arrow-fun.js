@@ -23,3 +23,7 @@ document.getElementById('click').addEventListener('click', () => {
     document.getElementById('msg').appendChild(h2);
 })
 
+
+const mod = (x1, x2) => x1%x2;
+// console.log(mod(10, 6));
+  
