@@ -21,4 +21,4 @@ for( let keys of Object.keys(student) ){
 
 const numbers = [ 78, 85, 87, 54, 24, 44, 411 ];
 const [ i1, b, c ] = numbers;
-console.log(i1, b, c);
+// console.log(i1, b, c);
