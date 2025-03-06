@@ -18,7 +18,7 @@ const [,,,[,,,se]] = n3;
 // console.log(se);
 
 const [,,,[,,[et, svn]]] = n3;
-console.log(et, svn);
+// console.log(et, svn);
 
 
 
