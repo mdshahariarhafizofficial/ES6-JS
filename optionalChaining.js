@@ -9,4 +9,6 @@ const userInfo = {
     } 
 }
 
-// console.log(userInfo.userGpa.passingYear);
+const result = userInfo.userGpa.passingYear?.result?.hsc;
+// console.log(result);
+
