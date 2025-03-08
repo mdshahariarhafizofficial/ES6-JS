@@ -24,13 +24,13 @@ class cashOut{
     }
     cashOutCharge(){
         const cashOutCharge = (this.amount*2)/100;
-        console.log(`${cashOutCharge} Tk`);
+        // console.log(`${cashOutCharge} Tk`);
     }
 }
 
 const customer1 = new cashOut(12345678910, 1000, 1234);
-console.log(customer1);
-customer1.cashOutCharge();
+// console.log(customer1);
+// customer1.cashOutCharge();
 const customer2 = new cashOut(12345678910, 50000, 1234);
-console.log(customer2);
-customer2.cashOutCharge();
+// console.log(customer2);
+// customer2.cashOutCharge();
