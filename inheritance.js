@@ -16,7 +16,6 @@ class truck extends vehicle{
     }
     truckStop(){
         // console.log("truck thamao");
-        
     }
 }
 
